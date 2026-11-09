@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vixz0987/introduction-to-ai/blob/main/lab1/notebooks/lab1.ipynb)
+
 # Практическое занятие 1. Рабочее окружение
 
 Автор: Зимина Виктория Александровна, группа 251-952
